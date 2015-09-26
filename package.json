@@ -1,6 +1,6 @@
 {
   "name": "shun-encode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Encode text with positive energy",
   "main": "ShunEncode",
   "repository": {
@@ -15,6 +15,7 @@
     "404"
   ],
   "dependencies":{
+    "amdefine":"~1.0.0"
   },
   "author": {
     "name": "Jex"
