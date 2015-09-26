@@ -1,0 +1,23 @@
+{
+  "name": "shun-encode",
+  "version": "0.0.1",
+  "description": "Encode text with positive energy",
+  "main": "ShunEncode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JexCheng/ShunEncode.git"
+  },
+  "keywords": [
+    "encode",
+    "ShunEncode",
+    "GFW",
+    "censor",
+    "404"
+  ],
+  "dependencies":{
+  },
+  "author": {
+    "name": "Jex"
+  },
+  "license": "MIT"
+}
